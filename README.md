@@ -6,11 +6,12 @@
 - 🌱 I’m currently learning Spring boot and angular
 
 ### Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png | width=100) LinkedIn](https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/)
+[<img align="left" alt="https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
 <!--
 &nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 -->
