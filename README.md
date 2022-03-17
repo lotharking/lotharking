@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning Spring boot and angular
 
 ### Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/)
+(https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/)
+
+### Languages and Tools:
 
 <!--
 **lotharking/lotharking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
