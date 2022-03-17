@@ -1,9 +1,13 @@
 ### Hi there, I'm Andrés F. Vallecila - lotharking 👋
 
-
+### I'm a Developer and Electronic Engineer!!
 
 - 🔭 I’m currently working on Carvajal TyS
 - 🌱 I’m currently learning Spring boot and angular
+
+### Hi there, I'm Andrés F. Vallecila
+
+https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/
 
 
 ### Connect with me:
