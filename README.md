@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Andrés F. Vallecila - lotharking 👋
 
 
 
 - 🔭 I’m currently working on Carvajal TyS
 - 🌱 I’m currently learning Spring boot and angular
+
+
+### Connect with me:
+
 
 <!--
 **lotharking/lotharking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
