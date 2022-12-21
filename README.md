@@ -2,7 +2,7 @@
 
 ### I'm a Developer and Electronic Engineer!!
 
-Hi, I'm Andrés F. Vallecila, a developer and electronic engineer with 2 years of professional experience. I'm currently working as an ETL and SQL developer at Carvajal TyS, where I'm responsible for designing and implementing data pipelines to support business intelligence initiatives.
+I'm currently working as an ETL and SQL developer at Carvajal TyS, where I'm responsible for designing and implementing data pipelines to support business intelligence initiatives.
 
 ### Connect with me:
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/)
