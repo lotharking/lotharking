@@ -2,7 +2,7 @@
 
 ### I'm a Developer and Electronic Engineer!!
 
-I'm currently working as an ETL and SQL developer at Carvajal TyS, where I'm responsible for designing and implementing data pipelines to support business intelligence initiatives.
+I'm currently working as a full-stack developer at Mobiera SAS, specializing in Angular and Java for application development.
 
 ### Connect with me:
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andres-felipe-vallecilla-puentes/)
