@@ -73,4 +73,5 @@ Backend Java developer, specialized in DIDComm for creating value-added services
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lotharking&show_icons=true&locale=en&layout=compact" alt="lotharking" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotharking&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css&card_width=445&tech-icons=true" alt="lotharking" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotharking&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css&card_width=445&tech-icons=true)](https://github.com/anuraghazra/github-readme-stats)
